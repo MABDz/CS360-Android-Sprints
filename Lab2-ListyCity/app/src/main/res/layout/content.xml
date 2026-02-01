@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fontFamily="sans-serif-condensed-medium"
+    android:padding="20dp"
+    android:text="Hello World!"
+    android:textAlignment="textStart"
+    android:textColor="@color/white"
+    android:textSize="34sp"
+    android:typeface="sans"
+    android:clickable="false"
+    android:focusable="false"/>
